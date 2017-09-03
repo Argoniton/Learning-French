@@ -1,14 +1,7 @@
 # Langue française - Premier jour
 
 ## Vocabulaire
-Bonjour
-bonsoir
-Bonne nuit
-Au revoir
-a bientôt
-À la prochaine
-j'ai 20 ans
-J'ai un chien 
+
 Bonjour
 
 bonsoir
