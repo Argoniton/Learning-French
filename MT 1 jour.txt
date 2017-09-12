@@ -1,0 +1,552 @@
+MO 1 jour
+CD 1
+>60 Persent 
+Possible
+Table
+C’est
+La vie
+C’est possible
+C’est confortable
+Bon
+C’est bon
+Trés
+C’est très bon
+C’est probable
+C’est acceptable
+Pour moi
+pour
+C’est pour moi
+Pour vous
+C’est pour vous
+C’est très confortable pour moi
+Ce n’est pas
+Pas pour moi, merci
+Merci
+Ce n’est pas pour moi
+Ce n’est pas très confortable pour moi
+
+3
+Comme ci, comme ça
+Comme ça
+C’est comme ça
+Ce n’est pas comme ça
+Ce n’est pas possible pour moi comme ça
+Je regrette
+Je regrette mais 
+Je regrette mais ce n’est pas très comfortable pour moi comme ça
+Je regrette mais ce n’est pas acceptable pour moi comme ça
+C’est très remarquable
+
+4
+Différent
+Important
+Ce n’est pas très différent comme ça
+Mais c’est  très important pour moi.
+Très important
+Évident
+Récent
+Constant
+Nécessaire
+Ce n’est pas nécessaire pour moi
+Contraire
+Au contraire
+Militaire
+Vocabulaire
+Je voudrais
+parler
+Parler français
+Je voudrais parler français
+Avec
+Avec vous
+Avec moi
+Je voudrais parle français avec vous
+Voulez-vous parler français avec moi?
+Venir
+Voulez-vous venir avec moi?
+Manger
+Voulez-vous mange?
+Voulez-vous venir manger avec moi?
+
+5
+Venir
+Aller
+Voulez-vous aller manger avec moi?
+Où voulez-vous aller?
+Où voulez-vous aller manger?
+Ce soir
+C’est pour moi
+C’est pour ce soir
+Où voulez-vous aller manger ce soir.
+Diner
+Le dîne
+Où voulez-vous dîner ce soir?
+Voulez-vous aller dîner avec moi ce soir.
+
+6
+Savoir
+Je voudrais savoir
+Je voudrais savoir où
+Je voudrais savoir où c’est.
+Combien?
+Je voudrais savoir combien c’est.
+Quelque chose
+La chose
+La même chose
+Je voudrais manger quelque chose
+Je voudrais manger la même chose
+Voulez-vous manger quelque chose?
+Voulez-vous manger la même chose?
+Je voudrais la même chose pour moi, s’il vous plaît.
+
+7
+Différence
+Préférence
+importance
+influence
+La différence
+Une différence
+Quelle différence?
+Quel?
+La préférence
+Une préférence
+Quelle préférence.
+Avez-vous?
+Avez-vous une préférence?
+Quelle préférence avez-vous?
+Pour quel restaurant avez-vous une préférence ce soir?
+Opinion
+Condition
+La condition
+Quelle condition?
+Position
+La position
+Une position
+Quelle position?
+Réservation
+La réservation
+Une réservation
+Quelle réservation?
+Avez-vous une réservation pour moi pour ce soir?
+
+8
+Quelle sorte…?
+de
+Quelle sorte de réservation avez-vous pour moi ce soir?
+Quelle sorte de réservation voulez-vous pour ce soir?
+Traduction
+Je voudrais une traduction
+Faire
+Voulez-vous faire une réservation pour moi?
+Quelle sorte de réservation voulez-vous faire?
+Voulez-vous faire une traduction pour moi?
+Explication
+Donner
+Voulez-vous donner une explication pour moi?
+Les vacance
+Dépenser
+Passer le temps
+Passer les vacance
+Où voulez-vous passer les vacances?
+La situation
+Quelle impression avez-vous de la situation?
+
+9
+Politique
+Économique
+Philosophique
+Astronomique
+logique
+Pratique
+Ce n’est pas logique mais c’est très pratique comme ça.
+La situation politique
+La situation économique
+La situation politique et économique
+En France
+Je voudrais aller en France
+Je voudrais passer les vacances en France
+
+CD 2
+1
+Quelle impression avez-vous de la situation politique et économique en France à présent?
+Quelle sorte de réservation avez-vous pour moi?
+Quelle sorte de réservation voulez-vous pour ce soir?
+Restaurant
+C’st très petit
+Trop
+Tard
+C’est très tard
+C’est trop tard
+C’est trop pour moi.
+Grand
+Il est grand
+Elle est grande
+Elle est petite
+Vite
+C’est très vite
+C’est trop vite pour moi
+
+2
+parler
+Vous parlez
+Vous parlez trop vite pour moi
+Vous allez trop vite pour moi
+C’est très bon
+Si
+C’est si bon
+Si c’est si bon
+Je voudrais savoir si c’est si bon.
+Pourquoi?
+Je voudrais savoir pourquoi c’est si bon.
+Je voudrais savoir où vous allez.
+Je voudrais savoir où vous aller dîner ce soir.
+
+3
+Port
+Aéroport
+La porte
+CRFL CARREFUL
+Avec
+Avec moi
+Avec vous
+sac
+Vin blanc
+Un verre
+Un verre de vin blanc
+Je voudrais un verre de vin blanc
+Bouteille
+Je voudrais une bouteille
+Je voudrais une bouteille de vin blanc
+Eau
+Je voudrais un verre d’eau
+Je voudrais un verre d’eau minérale.
+Normal
+Normalement
+Général
+Généralement
+animal
+Spécial
+C’est très special
+Spécialement pour vous
+Tasse
+Je voudrais une tasse de café
+
+4
+Encore
+Un peu
+Je voudrais un peu
+Plus tard
+Plus
+C’est très tard
+Voulez-vous venir plus tard?
+Un peu plus tard
+Voulez-vous venir un peu plus tard?
+Maintenant
+Pas maintenant
+Possiblement
+Pas maintenant, possiblement un peu plus tard
+
+5
+Je voudrais mange quelque chose
+Je voudrais mange la même chose
+Autre
+L’autre chose
+L’autre chose
+Une autre chose
+Autre chose
+Je voudrais autre chose
+Voir
+Au revoir
+Je voudrais voir autre chose
+Avez-vous autre chose?
+Voulez-vous autre chose?
+Voulez-vous voir autre chose?
+
+6
+Avoir
+Je voudrais avoir autre chose
+Je voudrais savoir
+Encore un verre
+Je voudrais encore une bouteille de vin blanc.
+Je voudrais encore une tasse de café.
+Je voudrais encore un verre d’eau minérale.
+ 
+7
+Partir
+Parler
+Aller
+Venier
+boeuf
+
+8
+Dormir
+Comprendre
+faire
+Voulez-vous venir manger avec moi?
+Je dois
+Je dois parler avec vous
+Voulez-vous parler français avec moi?
+Je dois savoir où c’est.
+Je suis fatigué
+Je suis très fatigué
+Occupé
+Je suis très occupé maintenant.
+
+9
+Un peu /u p/
+Je peux
+Je peux un peu
+Pas pour moi, merci
+Je ne peux pas
+Je ne suis pas
+Je ne suis pas fatigué maintenant
+Mais je ne suis pas occupé maintenant
+
+CD 3
+1
+Attendre
+Parce que
+Je regrette mais je ne peux pas attendre parce que je dois partir maintenant.
+Je suis désolé.
+
+2
+Je regrette mais je ne peux pas venir avec vous maintenant parce que je suis très occupé.
+Je voudrais parler avec vous.
+Je dois parler avec vous.
+Vous parlez
+Parlez-vous?
+Parlez-vous français?
+Allez-vous?
+Où allez-vous?
+Où allez-vous dîner ce soir?
+
+3
+Parte
+Vous partez
+À quelle heure?
+À quelle heure partez-vous?
+Rester
+Vous restez
+Je reste
+Il reste
+Elle reste
+Mon ami reste
+Tout le monde
+Tout le monde reste
+
+4
+Je reste
+Je ne reste pas
+Je suis occupé
+Je ne suis pas occupé.
+Je suis fatigué.
+Je ne suis pas fatigué.
+Prêt-à-porter
+Prêt-à-manger
+Je suis prêt.
+Je suis prête. (Fem)
+Ill est prêt.
+Elle est prêt
+
+6
+Je mange
+Je parle
+Parlez-vous?
+Parlez-vous?
+Vous attendez
+Attendez!!!
+Vous attendez
+Vous n’attendez pas.
+Vous n’attendez pas.
+Pourquoi?
+Pourquoi attendez-vous?
+Pourquoi attendez-vous?
+À quelle heure partez-vous?
+
+7
+Nous partons
+Nous attendons
+Nous parlons
+Commencer 
+Vous commencez
+Nous commençons
+À quelle heure commencez-vous?
+À quelle heure commençons-nous?
+À quelle heure commençons-nous demain?
+Je commence
+Je ne commence pas
+Il commence
+elle commence
+Elle ne commence pas
+Ça
+Ça commence
+C’est prêt
+Ça commence
+C’est possible
+C’est très important.
+Ce n’est pas nécessaire.
+Ce n’est pas prêt.
+Ça ne commence pas
+Je peut
+Il peut
+elle peut
+Ça peut commencer maintenant.
+Ça doit commencer maintenant.
+Ça n’peut pas commencer.
+
+8
+À quelle heure arrivez-vous demain?
+À quelle heure arrivez-vous?
+À quelle heure arrivons-nous à Paris demain matin?
+Matin
+Passer la matinée
+Se soir
+Passer la soirée
+bonjour
+Jour
+Passer la journée
+À
+À Paris
+En France
+En Angleterre
+À Londres
+J’arrive
+
+9
+Il est prêt 
+Il arrive
+Elle arrive
+Bientôt
+À bientôt
+Elle arrive bientôt
+aujourd’hui
+Pas aujourd’hui
+Le restaurant
+au restaurant
+Le bureau
+Être
+Ici
+Je voudrais être ici avec vous.
+À quelle heure aller-vous être ici?
+J’ai
+J’ai quelque chose pour vous.
+J’ai un message pour vous.
+
+10
+Il a
+Il a quelque chose pour vous
+J’ai
+J n’ai pas
+Il n’a pas
+Faim
+J’ai faim
+Je voudrais mange quelque chose maintenant parce que j’ai faim
+Je vais
+Je vais rester ici
+Je vais partir bientôt
+Je ne vais pas rester
+Je vais manger
+Je vais manger
+Je vais commencer bientôt.
+Je ne vais pas partir aujourd’hui
+Il va
+Il va commencer bientôt
+là
+Il est là
+Il n’est pas là
+
+11
+Qui
+Qui est là?
+Mon ami est là?
+Tout le monde est là
+Personne
+La personne
+Personne est là
+Tout le monde est prêt.
+Je vais être prêt prêt bientôt
+Il va être prêt bientôt
+Elle va être prêt bientôt.
+Qui va être là ce soir?
+
+12
+Tout
+Tout va
+Tout va très bien
+Bien
+Rien
+Rien va
+Rien va être prêt aujourd’hui.
+Rien est prêt.
+Qui est prêt?
+Personne est prêt.
+Tout est prêt.
+
+1
+Je vais
+Je vais être prêt bientôt
+Tout la monde être prêt
+Tout la monde va être prêt bientôt
+Il/Elle/qui va
+Rien va
+Ça va
+Comment?
+Comment, ça va?
+Ça va très bien.
+Ça va très bien comme ça.
+Ça va être prêt bientôt.
+Aller
+Vous aller
+Nous allons
+Ça ne va pas
+Ça ne va pas être prêt aujourd’hui mais tout va être pour vous demain.
+
+2
+Ça peut
+Tout le monde voudrait être ici
+Tout le monde doit partir bientôt
+Qui parle français ici?
+Je parle
+Comprendre
+Je comprends
+Je ne comprends pas
+Il comprend
+Personne comprend
+Tout le monde comprend très bien
+Vous partez
+Nous partons
+Je pars
+Tout le monde part
+Personne 
+
+3
+Prendre
+Je prends
+Il prend
+Ça prend trop de temps
+Ça ne prend pas trop de temps
+Ça ne prend pas trop de temps
+Vendre
+Je vends
+Il vend
+Tout le monde peut commencer maintenant
+Tout le monde doit commencer maintenant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
