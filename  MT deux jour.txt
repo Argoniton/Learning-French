@@ -1,0 +1,726 @@
+
+3
+Voulez-vous venir avec moi?
+Voulez-vous venir dîner avec moi à la maison ce soir parce que je voudrais parler avec vous. C’est très important pour moi. Et je voudrais savoir à quelle heure vous allez être ici parce que je vais préparer le dîner pour vous.
+
+5
+Formation
+Former
+Conformer
+Confirmer
+Voulez-vous confirmer la réservation pour moi?
+Observer
+Observation
+Réserver
+Voulez-vous réserver une table pour deux pour dîner pour ce soir?
+Inviter
+Considérer
+Accepter
+Voulez-vous accepter la condition?
+Préférer
+Vous préférez
+Nous préférons
+Je préfère
+
+6
+Je dois parler avec vous
+Il dois être ici bientôt.
+Elle dois être prête maintenant.
+Il dois être prête maintenant.
+Ça doit être prêt maintenant.
+Ça peut être prêt.
+Peut-être
+Peut-être ça peut être prêt maintenant.
+Je fais
+Il fait
+Ça fait une grande différence comme ça
+Dire
+
+7
+Je dis
+Il dit
+Je vois
+Il voit
+Vous savez
+Il est
+Il va
+Ça va
+Savoir
+Vous savez
+Nous savons
+Nous ne savons pas
+Vous ne savez pas
+Savez-vous.
+Savez-vous où c’est?
+Je sais
+Je ne sais pas
+Il sait 
+Ja sais où c’est.
+
+8
+Personne sait où c’est.
+Tout le monde sait où c’est
+Qui sait?
+Avoir
+Vous avez
+Nous avons
+Nous n’avons pas
+Vous n’avez pas
+Avez-vous?
+Avons-nous?
+Devoir
+Vous devez
+Nous devons
+Nous devons partir bientôt
+Vous devez partir bientôt
+Vous devez venir avec moi.
+
+9
+Vous devez attendre
+Il doit attendre
+Je vais attendre ici
+Tout le monde va attendre.
+Personne peut attendre
+Pouvez-vous?
+Pouvez-vous
+Vous pouvez
+Je voudrais savoir si vous pouvez venir avec moi.
+
+10
+Pouvez-vous attendre ici?
+Nous pouvons
+Nous ne pouvons pas attendre.
+Elle va
+Tout le monde va
+Qui va?
+Le faire
+Je voudrais le faire
+Ça va être prêt bientôt
+Je voudrais le faire
+Je dois le faire
+Je vais le faire
+Je ne vais pas le faire
+Nous allons le faire
+Nous ne allons pas le faire
+Vous allez le faire
+Vous n’aller pas le faire.
+
+11
+Quand?
+Quand allez-vous le faire?
+Il va le faire
+Je ne vais pas le faire
+Il ne va pas le faire parce qu’il ne peut pas le faire mais il doit le faire.
+Vous devez le faire
+Nous devons le faire
+Je ne peux pas le faire maintenant
+Nous ne pouvons pas la faire
+
+12
+Je voudrais le faire
+Le voir
+Le voir
+Je vais le voir ce soir
+Je vais le voir ce soir
+Je ne peux pas le comprendre
+Je ne peux pas le comprendre
+
+13
+Prendre
+Je vais le prendre
+Je voudrais le savoir
+Je dois le savoir
+Je voudrais le avoir
+Je dois le avoir aujourd’hui
+Quand voulez-vous l’avoir?
+Acheter
+Je voudrais l’acheter parce que je dois l’avoir
+Voulez-vous le préparer pour moi?
+Voulez-vous accep… YOU HAVE TO BE DARING Accepter la condition?
+Merci beaucoup
+beaucoup
+Je voudrais beaucoup accepter la condition
+Mais je suis désolé
+Je regrette
+Mais je ne peux pas l’accepte
+Parce que ce n’est acceptable pour moi comme ça.
+Je vais le voir ce soir
+
+1
+La 
+La voir
+Je vais la voir ce soir
+Les
+Je vais les voir ce soir
+Le voir
+Le voir
+La voir
+Les voir
+Vous voir
+Je voudrais vous voir
+Je vais vous voir ce soir
+J’espère
+J’espère que je vais vous vois ce soir parce que je voudrais beaucoup vous voir
+Nous voir
+Me voir
+Pouvez-vous venir me voir?
+
+2
+Le comprendre
+Le comprendre
+La comprendre
+Les comprendre
+Je ne peux pas vous comprendre.
+Nous comprendre
+Me comprendre
+Pouvez-vous me comprendre?
+Le dire
+Vous dire
+Nous dire
+Me dire
+Je dois vous dire
+Je vais vous dire plus tard
+Trouver
+Nous trouvons
+Je trouve
+Voulez-vous me dire où c’est parce que je ne peux pas le trouver
+
+3
+Voulez-Vous me dire?
+Pouvez-vous me dire?
+Cher
+C’est très cher
+C’est trop cher
+Voulez-vous me dire combien c’est parce que je voudrais le avoir et je vais l’acheter si ce n’est pas trop cher.
+Je voudrais l’acheter
+Je vais l’acheter
+Appel
+Voulez-vous m’appel plus tard?
+
+4
+Pouvez-vous m’appel plus tard?
+Quand pouvez-vous m’appeler?
+Quand allez-vous m’appeler?
+Je vais vous appeler plus tard?
+Voulez-vous m’appeler plus tard et pouvez-vous me dire à quelle heure ça va être prêt je dois l’avoir aujourd’hui si c’est possible
+Je ne peux pas le comprendre
+Voulez-vous m’attendre?
+Pouvez-vous m’attendre?
+Je vais vous attendre
+
+5
+Je suis pressé
+Je regrette mais je ne peux pas vous attendre parce que je suis très pressé et je dois partir bientôt
+Lui
+Donner
+Porter
+Porter
+Apporter
+Je vais vous apporter quelque chose
+Livre
+Je vais apporter le livre
+Envoyer
+Envoye
+Je vais lui envoyer le livre
+Voulez-vous le lui envoyer?
+Quand pouvez-vous le lui envoyer?
+Je vais le voir ce soir et je vais lui donner le livre.
+À qui?
+C’est pour moi.
+C’est pour vous
+C’est pour nous
+C’est pour lui
+Pour elle
+Avec lui
+Avec elle
+
+6
+Je vais le donner à lui
+Je vais le donner à elle
+Je vais lui apporter le livre
+Je vais lui apporter le livre
+Je vais apporter le livre à lui
+Je vais apporter le livre à elle
+Leur 
+L’argent
+Argent
+Je vais leur envoyer l’argent
+Mon père
+Ma mère
+Avec mon père
+Avec ma mère
+Mes parents
+Son père
+Sa mère
+Ses parents
+Son père
+Sa mere
+Ses parents
+
+8
+Leur père
+Leur mère
+Leurs parents
+Je vais leur apporter leur livre
+Voulez-vous leur dire?
+Voulez-vous leur dire que je vais l’appeler plus tard?
+Demander 
+Voulez-vous lui demander?
+Voulez-vous lui demander s’il peut m’attendre?
+
+9
+Je n’ai pas le temps
+La police
+La armée
+La liberté
+La difficulté
+La facilité
+La possibilité
+l’opportunité
+La spécialité
+Quelle spécialité avez-vous?
+Quelle est spécialité de la maison?
+
+10
+La qualité
+Quelle qualité?
+Société
+
+opérer
+Modérer
+Accélérer
+Faciliter
+négocier
+Coopérer
+Certifier
+Modifier
+Justifier
+
+11
+Je n’ai pas le temps.
+Problème
+Ce n’est pas le probléme
+Ce n’est pas un problème
+Il y a un probléme
+Quelle que
+Quelque chose
+Quelqu’un
+Il y a quelqu’un ici qui voudrait parler avec vous
+Est-ce qu’il y a…?
+Est-ce qu’il y a un message pour moi?
+Les messages
+Les livres
+
+12
+Des
+Je vais acheter des livres
+Je vais acheter des fleurs
+Il y a un message pour vous
+Il y a des messages pour vous
+Il y a des messages pour moi?
+Est-ce qu’il y a des messages pour moi?
+Est-ce qu’il y a quelqu’un ici qui parle anglais.
+
+13
+Il n’y a personne ici qui parle anglais.
+Pas
+Pas pour moi
+Pas maintenant
+Pas de
+Pas de café pour moi.
+Pas de problème
+Pas de crème pour moi.
+Personne comprendre pourquoi
+Je ne comprendre pas
+Je le comprendre
+Je ne le comprendre pas
+
+14
+Vrai
+C’est vrai
+Ce n’est pas vrai
+C’est vrai?
+Ah, vraiment?
+Je ne le comprends pas
+Je ne la comprends pas
+Je ne les comprends pas
+Je ne vous comprends pas
+Il ne vous comprend pas
+Il ne nous comprend pas
+Il ne me comprend pas
+Je vous comprends très bien
+Je ne vous comprends pas très bien
+Rien
+Je ne comprend rien
+Je ne le voir pas
+Je ne voir rien
+Jamais
+Je ne le voir jamais
+Je ne comprendre jamais pourquoi
+Je ne peux jamais comprendre
+Je ne peux rien comprendre
+Je voudrais un verre d’eau minérale
+Je voudrais un tasse de café
+Ce n’est pas possible de la faire
+
+2
+Ce n’est pas nécessaire de le faire maintenant.
+Heureux
+Elle est heureuse
+Il est heureux
+Je suis heureux
+Je suis heureux de le faire voir vous
+Je suis très heureux de vous voir
+Je suis très content de vous voir
+Fois
+Une fois
+Deux fois
+Trois fois
+La première fois
+La prochaine fois
+La dernière fois
+Encore une fois
+Je vais le vois la prochaine fois
+Je le vois pour la première fois
+Je voudrais avoir l’opportunité de le voir la prochaine fois.
+toujours
+Je n’ai pas toujours l’occasion de le voir.
+Je n’ai pas toujours le temps de le faire.
+C’est toujours un plaisir de le voir.
+
+3
+pandre
+Je le prends
+Ça prend trop de temps comme ça
+Ça fait une grande différence comme ça
+Ça me fait plaisir
+Ça me fait plaisir de vous voir
+Ça me fait grand plaisir de vous voir
+
+4
+Je regrette mais je n’ai pas le temps de le faire maintenant parce que je suis très occupé.
+Voulez-vous lui demander de le faire.
+Voulez-vous lui dire de le m’attendre?
+Voulez-vous lui demander de m’appeler plus tard?
+Qu’est-ce que vous avez?
+Est-ce que vous avez...?
+Comprenez-vous?
+Est-ce que vous comprenez?
+Qu’est-ce que…?
+
+5
+Qu’est-ce que vous avez à manger?
+Qu’est-ce que vous avez à voir?
+Vous devez manger.
+boire
+Qu’est-ce que vous avez à boire?
+Qu’est-ce qu’il y a?
+Qu’est-ce qu’il y a à boire?
+Qu’est-ce qu’il y a à mange?
+J’ai quelque chose à vous dire.
+Combien de temps?
+Trop de temps
+Beaucoup de temps
+Je n’ai pas beaucoup de temps
+Beaucoup de choses
+Je n’ai pas trop de temps
+Je ne vais pas acheter trop de choses
+J’ai beaucoup à faire
+J’ai beaucoup trop à faire
+Je n’ai rien à faire
+Rien à faire
+
+6
+Quelle différence 
+Quelle est la différence?
+Entre
+Entre nous
+Entre les deux
+Quelle est la différence entre les deux
+Quelle est la spécialité de la maison?
+Quel est votre numéro de téléphone?
+Quel est votre nom?
+
+7
+Quelle est la différence?
+Que voulez-vous?
+Que voulez-vous manger?
+Que voulez-vous faire maintenant? Que voulez-vous savoir maintenant?
+Que préférez-vous?
+Panse
+Que pansez-vous?
+Qu’avez vous?
+Qu’est-ce que vous voulez?
+Qu’est-ce que vous savez?
+Qu’est-ce que vous avez pour moi?
+
+8
+Qu’est-ce que vous voulez dire?
+Qu’est-ce que vous dire?
+Ce que
+Je ne sais pas ce que je vais faire aujourd’hui
+Personne sais ce que c’est.
+Qui sait?
+Je ne comprends pas ce que vous voulez dire.
+
+9
+pouvoir 
+Vouloir
+Je peux
+Je veux
+Je le veux
+Ce n’est pas ce que je veux
+C’est exactement ce que je veux
+Mais ce n’est pas ce que je veux dire
+Je veux le faire
+Je vais le faire
+Je vais le faire parce que je veux le voir
+Ce n’est pas ce que je veux dire
+Je ne comprends pas ce que ça veut dire
+Ça veut dire
+Qu’est-ce que ça veut dire?
+
+10
+Expliquer
+Voulez-vous m’expliquer ce que vous voulez dire?
+Je vais le faire demain.
+Il va être ici dans quelques jours.
+Je vais arriver demain matin.
+Nous allons arriver demain matin
+
+11
+Il partira
+Je dirai
+J’attendrai
+Vous attendrez
+Nous attendrons
+Il attendra
+Je comprendrai
+Je ne le comprendrai pas
+Je ne vous comprendrai pas
+Il ne me comprendra pas
+Il vous dira
+Il ne me dira pas
+Je vous demanderai plus tard
+
+12
+Ça commencera bientôt 
+Ça va commencer bientôt
+Ça commence demain
+
+La semaine prochaine
+Je vais vous voir la semaine prochaine
+Je vous voir la semaine prochaine
+Lever
+Je le lève
+Il le lève
+Elle le lève
+On commence
+on commence maintenant
+
+CD 7
+1
+On est très confortable ici
+On va
+On va partir
+On va rester ici
+On va …?
+On va commencer?
+On va partir?
+On va rester?
+Qu’est-ce qu’on va …?
+Qu’est-ce qu’on va faire?
+Qu’est-ce qu’on va manger?
+Qu’est-ce qu’on va commander?
+Qu’est-ce qu’on va boire?
+Qu’est-ce qu’on va prendre?
+Je vais prendre une tasse de café.
+déjeuner
+Le déjeuner
+Voulez-vous déjeuner avec moi?
+Le petit déjeuner
+Voulez-vous prendre le petit déjeuner avec moi demain matin?
+
+2
+Je le ferai
+Je vais le faire
+Voulez-vous venir avec moi?
+Voulez-vous parler avec moi?
+Qu’est-ce que vous voulez venir avec moi?
+Est-ce que vous voulez venir avec moi?
+Voulez-vous m’attendre?
+Est-ce que vous voulez m’attendre?
+
+3
+Je me lève
+Nous nous levons
+Vous vous levez
+Il se lève
+On se lève
+Je vais me lever
+On va se lever
+On va se lever?
+Voulez-vous vous lever, s’il vous plaît?
+À quelle heure allez-vous vous lever demain matin?
+Je demande 
+Je vous demande
+Je me demande
+J’appelle
+Je vous appelle
+Je vous appelle demain
+Je m’appelle
+
+4
+Rappeler
+Voulez-vous rappeler?
+Je vais vous rappeler?
+Voulez-vous lui dire de me rappeler?
+Je vous rappelle plus tard.
+Je me rappelle
+Je ne me rappelle pas
+Se dépêcher
+Je me dépêche
+Je vais me dépêcher
+Je dois me dépêcher
+On va se dépêcher
+Nous allons nous dépêcher
+Vous devez vous dépêcher
+Voulez-vous vous dépêcher
+
+5
+Nous allons en Espagne
+Vous allez être an Espange
+Au japon
+En français
+On dit
+Comment ça se dit
+Comment ça s’écrit?
+Écrite
+Quel prix
+Quel est le prix?
+C’est combien?
+Voulez-vous l’écrire?
+Voulez-vous écrire le prix?
+
+6
+En passant
+En attendant
+J’en veux
+Je n’en veux pas
+Je vais en acheter
+Je voudrais en avoir
+Voulez-vous en avoir?
+L’avez-vous?
+En avez-vous?
+En voulez-vous?
+
+7
+assez
+J’ai assez
+J’en ai assez
+J’en ai marre
+J’ai besoin de ce livre
+J’ai besoin de le faire
+Il faut
+Il faut le faire
+Il me faut le faire
+Qu’est-ce que vous voulez faire maintenant?
+Si vous voulez
+Vous êtes
+Vous êtes occupé
+Où êtes-vous?
+Êtes-vous occupé?
+Êtes-vous libre?
+
+8
+Où êtes-vous?
+Vous faites
+Qu’est-ce que vous faites?
+Vous dites
+Je ne comprends pas ce que vous dite
+Je me dépêche parce que je suis pressé
+Voulez-vous vous dépêcher?
+Dépêchez-vous.
+
+9
+Déranger
+Ça me dérange
+Ça ne me dérange pas 
+Ça vous dérange
+Ça vous dérange si je fume?
+Fumer
+
+10
+Renseignements
+Enseigner
+Renseigner
+Se renseigner
+Je vais me renseigner
+
+11
+Je ne vous comprends pas
+Je ne peut pas vous comprendre
+Il ne peut pas le faire
+Pouvez-vous me comprendre?
+Pourquoi ne pouvez-vous pas le faire maintenant?
+Pourquoi ne pouvez-vous pas me dire
+
+12
+Pourquoi ne pouvez-vous pas venir avec moi?
+Je dois partir maintenant.
+On doit partir maintenant.
+Je pouvais
+Pouvez - pouvais - pouvait
+Il pouvait
+Je ne pouvais pas vous comprendre
+Il ne pouvait pas nous attendre
+Je devais
+Il devait
+Il devait partir
+Il voulait attendre
+Il voulait l’acheter
+Je ne voulais pas l’acheter
+
+13
+Savoir
+Je savais
+J’avais
+Je n’avais pas le temps de le faire
+J’étais
+C’était
+Ce n’était pas
+Ce n’était pas possible de le faire comme ça parce que j’étais très occupé
+Hier
+Hier matin
+Hier après-midi
+Hier soir
+J’étais là hier soir mais personne était là
+
+J’aime
+J’aime le faire ça
+Je vous aime
+Je t’aime
+Je vous aime bien
+Je vous aime bien mais je ne vous aime pas
+J’adore le faire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
